@@ -1,0 +1,39 @@
+{
+    "name": "@lomelidev/react-native-splash",
+    "version": "1.0.0",
+    "description": "Library for an animated splash.",
+    "main": "index.tsx",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/lomeliDev/react-native-splash.git"
+    },
+    "keywords": [
+        "Splash",
+        "ios",
+        "android",
+        "react-component",
+        "react-native",
+        "slider",
+        "lomeli",
+        "Lomelí Technology",
+        "Lomeli Technology",
+        "miguel lomeli",
+        "toopago"
+    ],
+    "author": "Miguel Lomeli <miguel@lomeli.io> (https://lomeli.io/)",
+    "contributors": [{
+        "name": "Miguel Lomeli",
+        "email": "miguel@lomeli.io"
+    }],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/lomeliDev/react-native-splash/issues"
+    },
+    "homepage": "https://github.com/lomeliDev/react-native-splash",
+    "dependencies": {
+        "styled-components": "^5.0.1"
+    },
+    "devDependencies": {
+        "@types/styled-components": "^5.0.1"
+    }
+}
